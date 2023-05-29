@@ -169,11 +169,6 @@ public class GameManager : MonoBehaviour
         }
         TotalEnemies = Enemies.Count;
 
-        // if (SceneManager.GetActiveScene().ToString().Equals("Attacker"))
-        //     EnemiesKilledText.text = "ATTACKERS KILLED: " + EnemiesKilled + "/" + TotalEnemies.ToString();
-        // else
-        //     EnemiesKilledText.text = "DEFENDERS KILLED: " + EnemiesKilled + "/" + TotalEnemies.ToString();
-
         GameObject[] NPs = GameObject.FindGameObjectsWithTag("NPC");
         for (int i = 0; i < NPs.Length; i++)
         {
