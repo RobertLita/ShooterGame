@@ -13,11 +13,11 @@ public enum AIState
 public class AIMovement : MonoBehaviour
 {
 
-    // Member variables
+    
     public int health;
-    //Bullet Power
+   
     public int BulletPower;
-    //Bullet
+    
     public GameObject Bullet;
 
     public AIState CurrentStateOfAI;
@@ -36,6 +36,7 @@ public class AIMovement : MonoBehaviour
 
 
     private float LimitDistanceFromPlayer = 10f;
+    
     //change state to attack
     public void ConvertToAttackState()
     {
@@ -44,18 +45,18 @@ public class AIMovement : MonoBehaviour
         
     
     }
-    //reset the states
+   
     public void RESETATTACKSTATE()
     {
         CurrentStateOfAI = AIState.Walk;
         this.GetComponent<Animator>().SetInteger("STATE", 1);
     }
+    
     //reset the state
     public void ConvertToNormalState()
     {
         CurrentStateOfAI = AIState.Walk;
         this.GetComponent<Animator>().SetInteger("STATE", 1);
-
 
     }
     void Start()
@@ -82,7 +83,7 @@ public class AIMovement : MonoBehaviour
             pathAvailable = nav.CalculatePath(CurrentTarget.transform.position, navMeshPath);
         return pathAvailable;
     }
-    //Check if is enemy is in view
+    
     public bool CheckEnemyInView()
     {
      
