@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>2b007b5f6b0e47a49989f45471fe8aff</guid>
+    <fileName>Assets/Plugins/unity-sweeper/UnitySweeper/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2023-05-27T19:18:54.559694+03:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.AssetCollector</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b4d1b01c73a5b27479ac7ba8d69c5a58</guid>
+    <fileName>Assets/Plugins/unity-sweeper/UnitySweeper/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2023-05-27T19:18:54.5607756+03:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.AssetReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8dabe464441c84f4b92cd3b26497ebed</guid>
+    <fileName>Assets/Plugins/unity-sweeper/UnitySweeper/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2023-05-27T19:18:54.5615035+03:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.ClassReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0aca77c09fc28fa48824e6f6cb6eb13a</guid>
+    <fileName>Assets/Plugins/unity-sweeper/UnitySweeper/Editor/CollectionData.cs</fileName>
+    <timeStamp>2023-05-27T19:18:54.5621781+03:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.CollectionData</string>
+      <string>UnitySweeper.TypeDate</string>
+      <string>UnitySweeper.IReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>41623010f8c831d4ebac8275e4bb5920</guid>
+    <fileName>Assets/Plugins/unity-sweeper/UnitySweeper/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2023-05-27T19:18:54.5623473+03:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.FindUnusedAssetsWindow</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>19b5b6951bc46104baa3040f688226d9</guid>
+    <fileName>Assets/Plugins/unity-sweeper/UnitySweeper/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2023-05-27T19:18:54.5631566+03:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.ShaderReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d519a37b226236f4ca76b7ef8bd10e89</guid>
+    <fileName>Assets/env/Scripts/ClockAnimator.cs</fileName>
+    <timeStamp>2016-06-16T23:39:42+03:00</timeStamp>
+    <typeFullName>
+      <string>ClockAnimator</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>990fe8504f02b6548adfd61ad0760abe</guid>
+    <fileName>Assets/env/Scripts/MirrorReflection.cs</fileName>
+    <timeStamp>2016-06-16T23:38:39+03:00</timeStamp>
+    <typeFullName>
+      <string>MirrorReflection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>20f8572b34f163644821787ce4450d60</guid>
+    <fileName>Assets/Epic Toon FX/Demo/Scripts/ETFXButtonScript.cs</fileName>
+    <timeStamp>2021-12-08T18:57:05+02:00</timeStamp>
+    <typeFullName>
+      <string>EpicToonFX.ETFXButtonScript</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0c95d8506f0df6044a130ad7fd7ce51b</guid>
+    <fileName>Assets/Epic Toon FX/Demo/Scripts/ETFXEffectController.cs</fileName>
+    <timeStamp>2021-12-08T18:56:16+02:00</timeStamp>
+    <typeFullName>
+      <string>EpicToonFX.ETFXEffectController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>037f0e92f195f6747a0518801f99686e</guid>
+    <fileName>Assets/Epic Toon FX/Demo/Scripts/ETFXEffectControllerPooled.cs</fileName>
+    <timeStamp>2021-12-08T18:55:51+02:00</timeStamp>
+    <typeFullName>
+      <string>EpicToonFX.ETFXEffectControllerPooled</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d9bf9ff1f66de9d459d3a13350fbfc36</guid>
+    <fileName>Assets/Epic Toon FX/Demo/Scripts/ETFXEffectCycler.cs</fileName>
+    <timeStamp>2021-12-08T19:05:29+02:00</timeStamp>
+    <typeFullName>
+      <string>EpicToonFX.ETFXEffectCycler</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9ccaaa7728d800946bf8d084ae03e400</guid>
+    <fileName>Assets/Epic Toon FX/Demo/Scripts/ETFXFireProjectile.cs</fileName>
+    <timeStamp>2021-12-08T19:02:30+02:00</timeStamp>
+    <typeFullName>
+      <string>EpicToonFX.ETFXFireProjectile</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>69093af5dcdce7b4ab5bbf82d06dbdb4</guid>
+    <fileName>Assets/Epic Toon FX/Demo/Scripts/ETFXLoopScript.cs</fileName>
+    <timeStamp>2021-12-08T19:00:16+02:00</timeStamp>
+    <typeFullName>
+      <string>EpicToonFX.ETFXLoopScript</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9ca5afe5c4377094597336e19503f797</guid>
+    <fileName>Assets/Epic Toon FX/Demo/Scripts/ETFXMouseOrbit.cs</fileName>
+    <timeStamp>2021-12-08T19:02:29+02:00</timeStamp>
+    <typeFullName>
+      <string>EpicToonFX.ETFXMouseOrbit</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>acd27932048c3254597a02078fa2cb26</guid>
+    <fileName>Assets/Epic Toon FX/Demo/Scripts/ETFXProjectileScript.cs</fileName>
+    <timeStamp>2021-12-08T19:03:15+02:00</timeStamp>
+    <typeFullName>
+      <string>EpicToonFX.ETFXProjectileScript</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>08babb817a4cfd443ac41b418ffd8387</guid>
+    <fileName>Assets/Epic Toon FX/Demo/Scripts/ETFXSceneManager.cs</fileName>
+    <timeStamp>2021-12-08T18:56:06+02:00</timeStamp>
+    <typeFullName>
+      <string>EpicToonFX.ETFXSceneManager</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>cf5b82cbe2647f24c9f1b44ee43b95b1</guid>
+    <fileName>Assets/Epic Toon FX/Demo/Scripts/ETFXTarget.cs</fileName>
+    <timeStamp>2021-12-08T19:04:59+02:00</timeStamp>
+    <typeFullName>
+      <string>EpicToonFX.ETFXTarget</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1a383f6b4f1b4ec4a9288e14968803f9</guid>
+    <fileName>Assets/Epic Toon FX/Demo/Scripts/VFX Library/ParticleEffectsLibrary.cs</fileName>
+    <timeStamp>2021-12-08T18:56:50+02:00</timeStamp>
+    <typeFullName>
+      <string>ETFXPEL.ParticleEffectsLibrary</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4eed3eee8b1748946ab71bf4a26ce94c</guid>
+    <fileName>Assets/Epic Toon FX/Demo/Scripts/VFX Library/PEButtonScript.cs</fileName>
+    <timeStamp>2021-12-08T18:58:56+02:00</timeStamp>
+    <typeFullName>
+      <string>ETFXPEL.ButtonTypes</string>
+      <string>ETFXPEL.PEButtonScript</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>678219500b099a742ab7e7957116755c</guid>
+    <fileName>Assets/Epic Toon FX/Demo/Scripts/VFX Library/UICanvasManager.cs</fileName>
+    <timeStamp>2021-12-08T19:00:12+02:00</timeStamp>
+    <typeFullName>
+      <string>ETFXPEL.UICanvasManager</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2f54e17d705a2894d88787e24190ebfa</guid>
+    <fileName>Assets/Epic Toon FX/Scripts/ETFXLightFade.cs</fileName>
+    <timeStamp>2021-12-08T18:57:40+02:00</timeStamp>
+    <typeFullName>
+      <string>EpicToonFX.ETFXLightFade</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>628ef9b0c7e4fd24db54868035e11237</guid>
+    <fileName>Assets/Epic Toon FX/Scripts/ETFXPitchRandomizer.cs</fileName>
+    <timeStamp>2021-12-08T18:59:50+02:00</timeStamp>
+    <typeFullName>
+      <string>EpicToonFX.ETFXPitchRandomizer</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7faa64a828219b44cb0eb5bfbfa83524</guid>
+    <fileName>Assets/Epic Toon FX/Scripts/ETFXRotation.cs</fileName>
+    <timeStamp>2021-12-08T19:01:19+02:00</timeStamp>
+    <typeFullName>
+      <string>EpicToonFX.ETFXRotation</string>
+      <string>EpicToonFX.ETFXRotation+spaceEnum</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c859d416b6fab4749b7d8f1d9dc840eb</guid>
+    <fileName>Assets/Low Poly Guns/Scripts/GunsMenu.cs</fileName>
+    <timeStamp>2021-04-19T19:35:48+03:00</timeStamp>
+    <typeFullName>
+      <string>GunsMenu</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>cc74bb52495beed45aa2ab2ba4b460ae</guid>
+    <fileName>Assets/Low Poly Guns/Scripts/GunView.cs</fileName>
+    <timeStamp>2021-04-19T19:35:49+03:00</timeStamp>
+    <typeFullName>
+      <string>GunView</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>95de629576cc3c14dae4f7d1b64ad4f4</guid>
+    <fileName>Assets/NavMeshCleaner/Script/NavMeshCleaner.cs</fileName>
+    <timeStamp>2019-12-05T16:39:10+02:00</timeStamp>
+    <typeFullName>
+      <string>NavMeshCleaner</string>
+      <string>NavMeshCleaner+NavMeshCleanerEditor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4e4e102d3f2309c45b42dace84cf852a</guid>
+    <fileName>Assets/Script/HealthController.cs</fileName>
+    <timeStamp>2023-05-27T19:55:13.4270564+03:00</timeStamp>
+    <typeFullName>
+      <string>HealthType</string>
+      <string>HealthController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5d9779b0447d42d49a2e30790732fbb6</guid>
+    <fileName>Assets/Script/AI Movement/AIMovement.cs</fileName>
+    <timeStamp>2023-05-27T19:55:21.4542637+03:00</timeStamp>
+    <typeFullName>
+      <string>AIState</string>
+      <string>AIMovement</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7afda8fd0c21f3b439af968fceaac94c</guid>
+    <fileName>Assets/Script/Enemy/Enemy.cs</fileName>
+    <timeStamp>2023-05-27T19:55:20.3336412+03:00</timeStamp>
+    <typeFullName>
+      <string>EnemyState</string>
+      <string>Enemy</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e27ffba6ef7e4984c8447b795306171e</guid>
+    <fileName>Assets/Script/Managers/GameManager.cs</fileName>
+    <timeStamp>2023-05-27T19:55:19.0712694+03:00</timeStamp>
+    <typeFullName>
+      <string>GameManager</string>
+      <string>GameManager+EnemyStatus</string>
+      <string>GameManager+GameStatus</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d3de01a36599875469eb63e4d7403a30</guid>
+    <fileName>Assets/Script/NPC Movement/WanderingAI.cs</fileName>
+    <timeStamp>2023-05-27T19:55:17.968091+03:00</timeStamp>
+    <typeFullName>
+      <string>WanderingAI</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>107ab18fb4bd2a44190ee89a63ae0cf9</guid>
+    <fileName>Assets/Script/PlayerController/PlayerController.cs</fileName>
+    <timeStamp>2023-05-27T19:55:16.5059638+03:00</timeStamp>
+    <typeFullName>
+      <string>PlayerController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ddac842af2645cb4bb8d3b7ca36f0fe2</guid>
+    <fileName>Assets/Script/PlayerController/SoundController.cs</fileName>
+    <timeStamp>2023-02-17T19:16:12.9186633+02:00</timeStamp>
+    <typeFullName>
+      <string>SoundController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4c355af7b21d8a64781c0360291c20cd</guid>
+    <fileName>Assets/Script/ShootingController/Bullet.cs</fileName>
+    <timeStamp>2023-05-27T19:55:15.4656764+03:00</timeStamp>
+    <typeFullName>
+      <string>Bullet</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7771c5e6d8aea7d4a90c4358bd56da75</guid>
+    <fileName>Assets/Script/ShootingController/ShottingController.cs</fileName>
+    <timeStamp>2023-02-04T19:11:17.6259148+02:00</timeStamp>
+    <typeFullName>
+      <string>ShottingController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>467f39462748f3d478ea66b647fd8d26</guid>
+    <fileName>Assets/Script/UICONTROLLER/UICONTROLLER.cs</fileName>
+    <timeStamp>2023-04-23T18:13:31.9127728+03:00</timeStamp>
+    <typeFullName>
+      <string>UICONTROLLER</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+</ArrayOfTypeDate>
